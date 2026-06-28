@@ -1,0 +1,8 @@
+node_modules
+.vitepress/dist
+quality-engineer-learning-site
+.DS_Store
+node-bin
+.reasonix
+.vitepress/cache
+lib

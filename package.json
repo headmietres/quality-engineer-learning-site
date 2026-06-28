@@ -1,0 +1,19 @@
+{
+  "name": "quality-engineer-learning-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "系统化的品质工程学习平台，从入门到进阶",
+  "dependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.39"
+  }
+}
