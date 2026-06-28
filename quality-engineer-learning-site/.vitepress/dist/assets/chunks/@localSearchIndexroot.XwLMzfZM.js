@@ -1,1 +1,0 @@
-const e='{"documentCount":1,"nextId":1,"documentIds":{"0":"/#品质工程师技能学习网站"},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{"0":[1,1,2]},"averageFieldLength":[1,1,2],"storedFields":{"0":{"title":"品质工程师技能学习网站","titles":[]}},"dirtCount":0,"index":[["建设中",{"2":{"0":1}}],["品质工程师技能学习网站",{"0":{"0":1}}]],"serializationVersion":2}';export{e as default};

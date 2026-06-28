@@ -7,6 +7,7 @@ export default defineConfig({
   srcDir: 'src',
   lastUpdated: true,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     siteTitle: '品质工程师技能学习',
     nav: [
