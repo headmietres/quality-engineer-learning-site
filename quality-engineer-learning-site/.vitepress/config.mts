@@ -8,7 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
-  base: '/',
+  base: '/quality-engineer-learning-site/',
   themeConfig: {
     siteTitle: '品质工程师技能学习',
     nav: [
